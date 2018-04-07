@@ -1,0 +1,14 @@
+<svg width="77px" height="77px" viewBox="0 0 77 77" version="1.1" >
+    
+    <title>Rectangle</title>
+    
+    <defs>
+        <rect id="path-1" x="0" y="0" width="77" height="77"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle">
+            <use fill="#3F5965" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="76" height="76"></rect>
+        </g>
+    </g>
+</svg>
